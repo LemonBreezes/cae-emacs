@@ -78,6 +78,7 @@
     ("confiugration" "configuration" nil :count 0)
     ("confiugrations" "configurations" nil :count 0)
     ("converison" "conversion" nil :count 0)
+    ("corect" "correct" nil :count 0)
     ("corects" "corrects" nil :count 0)
     ("corretly" "correctly" nil :count 0)
     ("curently" "currently" nil :count 0)
