@@ -1,0 +1,13 @@
+Host github.com
+  IdentitiesOnly yes
+  IdentityFile ~/.ssh/id_ed25519
+
+Host gitlab.com
+  IdentitiesOnly yes
+  IdentityFile ~/.ssh/id_ed25519
+
+Host gitNew.domain.farelogix.com
+  Hostname gitNew.domain.farelogix.com
+  user aruiz
+  IdentitiesOnly yes
+  IdentityFile ~/.ssh/id_ed25519
