@@ -2,7 +2,13 @@
 ;;; This format is meant to be slightly human-readable;
 ;;; nevertheless, you probably don't want to edit it.
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
-(("(elisp) Advice Combinators"
+(("straight repos dir"
+ (filename . "~/.emacs.d/.local/straight/repos/")
+ (front-context-string . "Emacs-langtool\n ")
+ (rear-context-string . "023-01-24 22:27 ")
+ (position . 89)
+ (last-modified 25556 41944 85510 373000))
+("(elisp) Advice Combinators"
  (front-context-string . "     function if")
  (rear-context-string . "ly call the old\n")
  (position . 767227)
