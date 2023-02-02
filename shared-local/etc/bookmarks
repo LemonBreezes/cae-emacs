@@ -171,5 +171,4 @@
  (rear-context-string . "8K May  7 21:06 ")
  (position . 899))
 ("Latest download"
- (handler . bookmark/jump-to-newest-download))
-)
+ (handler . bookmark/jump-to-newest-download)))
