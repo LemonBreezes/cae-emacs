@@ -44,7 +44,6 @@
     ("maidir" "maildir" nil :count 1)
     ("restar" "restart" nil :count 1)
     ("tailcale" "tailscale" nil :count 1)
-    ("zeth" "cd ~/src/libeth/ && make clean && make && cd ../ethtest/ && make clean && make && ~/src/ethtest/bin/tests" nil :count 12)
    ))
 
 (define-abbrev-table 'global-abbrev-table
