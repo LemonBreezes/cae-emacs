@@ -11,6 +11,7 @@
     ("deffun" "defun" nil :count 1)
     ("defvr" "defvar" nil :count 1)
     ("deun" "defun" nil :count 1)
+    ("devar" "defvar" nil :count 1)
     ("eeq" "eq" nil :count 1)
     ("esell" "eshell" nil :count 1)
     ("etq" "setq" nil :count 3)
