@@ -1,4 +1,9 @@
 ;;-*-coding: utf-8;-*-
+(define-abbrev-table 'c++-mode-abbrev-table
+  '(
+    ("contiue" "continue" nil :count 0)
+   ))
+
 (define-abbrev-table 'emacs-lisp-mode-abbrev-table
   '(
     ("afterj1" "after!" nil :count 2)
