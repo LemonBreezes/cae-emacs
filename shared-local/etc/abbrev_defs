@@ -135,6 +135,7 @@
     ("keybidnigns" "keybindings" nil :count 1)
     ("laso" "also" nil :count 0)
     ("laucnh" "launch" nil :count 0)
+    ("laymann" "layman" nil :count 0)
     ("locatiion" "location" nil :count 0)
     ("locl" "local" nil :count 0)
     ("mathc" "match" nil :count 0)
