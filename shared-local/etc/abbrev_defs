@@ -30,7 +30,7 @@
     ("mdoulep" "modulep!" nil :count 1)
     ("mesage" "message" nil :count 1)
     ("modilep" "modulep" nil :count 1)
-    ("modulep" "modulep" nil :count 5)
+    ("modulep" "modulep" nil :count 9)
     ("olfun" "oldfun" nil :count 1)
     ("oncat" "concat" nil :count 2)
     ("package1" "package!" nil :count 1)
