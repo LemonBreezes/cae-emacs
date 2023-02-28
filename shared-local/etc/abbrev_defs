@@ -91,6 +91,7 @@
     ("curent" "current" nil :count 0)
     ("curently" "currently" nil :count 0)
     ("deete" "delete" nil :count 0)
+    ("defauit" "default" nil :count 0)
     ("degredation" "degradation" nil :count 0)
     ("delet" "delete" nil :count 0)
     ("deskotp" "desktop" nil :count 0)
