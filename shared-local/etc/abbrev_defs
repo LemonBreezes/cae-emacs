@@ -39,6 +39,8 @@
     ("prgon" "progn" nil :count 1)
     ("remowe" "remove" nil :count 1)
     ("seopt" "setopt" nil :count 1)
+    ("tremacs" "treemacs" nil :count 1)
+    ("winnum" "winum" nil :count 1)
    ))
 
 (define-abbrev-table 'eshell-mode-abbrev-table
