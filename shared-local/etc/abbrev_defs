@@ -30,6 +30,7 @@
     ("lipy" "lispy" nil :count 2)
     ("lit" "list" nil :count 1)
     ("lookibf" "looking" nil :count 2)
+    ("lop" "loop" nil :count 1)
     ("mdoulep" "modulep!" nil :count 1)
     ("mesage" "message" nil :count 1)
     ("modilep" "modulep" nil :count 1)
