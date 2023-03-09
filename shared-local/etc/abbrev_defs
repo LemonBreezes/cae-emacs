@@ -169,6 +169,7 @@
     ("ormat" "format" nil :count 1)
     ("outlinhe" "outline" nil :count 0)
     ("pacage" "package" nil :count 3)
+    ("packapge" "package" nil :count 0)
     ("paclage" "package" nil :count 0)
     ("pakage" "package" nil :count 0)
     ("pakcage" "package" nil :count 1)
