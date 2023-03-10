@@ -80,6 +80,7 @@
     ("bookmmrk" "bookmark" nil :count 0)
     ("botjh" "both" nil :count 0)
     ("brokne" "broken" nil :count 0)
+    ("butons" "buttons" nil :count 0)
     ("chekcing" "checking" nil :count 0)
     ("cler" "clear" nil :count 0)
     ("clnoe" "clone" nil :count 0)
