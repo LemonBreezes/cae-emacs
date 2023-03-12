@@ -162,6 +162,7 @@
     ("mistkaes" "mistakes" nil :count 1)
     ("mmake" "make" nil :count 1)
     ("modiule" "module" nil :count 0)
+    ("mooving" "moving" nil :count 0)
     ("mroe" "more" nil :count 0)
     ("naalyzer" "analyzer" nil :count 0)
     ("navigantion" "navigation" nil :count 0)
