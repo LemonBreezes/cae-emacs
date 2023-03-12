@@ -168,6 +168,7 @@
     ("navigantion" "navigation" nil :count 0)
     ("occurence" "occurrence" nil :count 0)
     ("oktline" "outline" nil :count 0)
+    ("optimizrtion" "optimization" nil :count 0)
     ("optioal" "optional" nil :count 1)
     ("ormat" "format" nil :count 1)
     ("outlinhe" "outline" nil :count 0)
